@@ -1,0 +1,17 @@
+{
+  "login": {
+    "welcome": "Welcome",
+    "subtext": "Please login to continue",
+    "language": "Language",
+    "user": "Username",
+    "userPlaceholder": "Enter your username",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "enter": "Login",
+    "loggingIn": "Logging in..."
+  },
+  "errors": {
+    "requiredLogin": "Username is required",
+    "requiredPassword": "Password is required"
+  }
+}

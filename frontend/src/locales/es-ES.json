@@ -1,0 +1,17 @@
+{
+  "login": {
+    "welcome": "Bienvenido",
+    "subtext": "Inicia sesión para continuar",
+    "language": "Idioma",
+    "user": "Usuario",
+    "userPlaceholder": "Ingresa tu usuario",
+    "password": "Contraseña",
+    "passwordPlaceholder": "Ingresa tu contraseña",
+    "enter": "Iniciar sesión",
+    "loggingIn": "Iniciando sesión..."
+  },
+  "errors": {
+    "requiredLogin": "El usuario es obligatorio",
+    "requiredPassword": "La contraseña es obligatoria"
+  }
+}

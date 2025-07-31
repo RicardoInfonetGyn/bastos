@@ -1,0 +1,17 @@
+{
+  "login": {
+    "welcome": "Bem-vindo",
+    "subtext": "Faça login para continuar",
+    "language": "Idioma",
+    "user": "Usuário",
+    "userPlaceholder": "Digite seu login",
+    "password": "Senha",
+    "passwordPlaceholder": "Digite sua senha",
+    "enter": "Entrar",
+    "loggingIn": "Entrando..."
+  },
+  "errors": {
+    "requiredLogin": "Login é obrigatório",
+    "requiredPassword": "Senha é obrigatória"
+  }
+}

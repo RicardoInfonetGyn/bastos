@@ -1,0 +1,17 @@
+{
+  "login": {
+    "welcome": "Bienvenue",
+    "subtext": "Connectez-vous pour continuer",
+    "language": "Langue",
+    "user": "Nom d'utilisateur",
+    "userPlaceholder": "Entrez votre nom d'utilisateur",
+    "password": "Mot de passe",
+    "passwordPlaceholder": "Entrez votre mot de passe",
+    "enter": "Connexion",
+    "loggingIn": "Connexion en cours..."
+  },
+  "errors": {
+    "requiredLogin": "Le nom d'utilisateur est requis",
+    "requiredPassword": "Le mot de passe est requis"
+  }
+}
